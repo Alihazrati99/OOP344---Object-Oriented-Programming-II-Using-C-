@@ -7,20 +7,20 @@ Welcome to my repository for the Object-Oriented Programming II course (OOP 344)
 The workshops are organized into individual folders, each containing its own README file with detailed information.
 
 1. [Workshop 1](Workshop%201)
-2. [Workshop 2](Workshop%202/README.md)
-3. [Workshop 3](workshop3/README.md)
-4. [Workshop 4](workshop4/README.md)
-5. [Workshop 5](workshop5/README.md)
-6. [Workshop 6](workshop6/README.md)
-7. [Workshop 7](workshop7/README.md)
-8. [Workshop 8](workshop8/README.md)
-9. [Workshop 9](workshop9/README.md)
+2. [Workshop 2](Workshop%202)
+3. [Workshop 3](Workshop%203)
+4. [Workshop 4](Workshop%204)
+5. [Workshop 5](Workshop%205)
+6. [Workshop 6](Workshop%206)
+7. [Workshop 7](Workshop%207)
+8. [Workshop 8](Workshop%208)
+9. [Workshop 9](Workshop%209)
 
 ## Final Project
 
 The final project is divided into three parts, each with its own README file for detailed information.
 
-1. [Final Project Part 1](finalproject-part1/README.md)
+1. [Final Project Part 1](finalproject-part%201)
 2. [Final Project Part 2](finalproject-part2/README.md)
 3. [Final Project Part 3](finalproject-part3/README.md)
 
