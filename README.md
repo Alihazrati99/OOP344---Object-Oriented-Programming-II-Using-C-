@@ -6,7 +6,7 @@ Welcome to my repository for the Object-Oriented Programming II course (OOP 344)
 
 The workshops are organized into individual folders, each containing its own README file with detailed information.
 
-1. [Workshop 1](workshop1/README.md)
+1. [Workshop 1](workshop1)
 2. [Workshop 2](workshop2/README.md)
 3. [Workshop 3](workshop3/README.md)
 4. [Workshop 4](workshop4/README.md)
@@ -27,19 +27,3 @@ The final project is divided into three parts, each with its own README file for
 ## Getting Started
 
 To get started with any of the workshops or the final project, refer to the respective README files in their folders.
-
-## Prerequisites
-
-[List any software, libraries, or tools needed to run the workshops and the final project.]
-
-## Usage
-
-[Instructions on how to use or test the code in the workshops and the final project.]
-
-## License
-
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-[Optional: Acknowledge any resources, inspirations, or assistance you received during the course.]
