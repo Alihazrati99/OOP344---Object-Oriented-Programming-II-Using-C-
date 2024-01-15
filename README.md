@@ -6,7 +6,7 @@ Welcome to my repository for the Object-Oriented Programming II course (OOP 344)
 
 The workshops are organized into individual folders, each containing its own README file with detailed information.
 
-1. [Workshop 1](workshop 1)
+1. [Workshop 1](workshop_1)
 2. [Workshop 2](workshop2/README.md)
 3. [Workshop 3](workshop3/README.md)
 4. [Workshop 4](workshop4/README.md)
