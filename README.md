@@ -20,11 +20,10 @@ The workshops are organized into individual folders, each containing its own REA
 
 The final project is divided into three parts, each with its own README file for detailed information.
 
-1. [Final Project Part 1](final%20project-part%201)
-1. [Final Project Part 1](Final%20Project/Part%201)
 
-3. [Final Project Part 2](finalproject-part2/README.md)
-4. [Final Project Part 3](finalproject-part3/README.md)
+1. [Final Project Part 1](Final%20Project/Part%201)
+2. [Final Project Part 2](Final%20Project/Part%202)
+3. [Final Project Part 3](Final%20Project/Part%203)
 
 ## Getting Started
 
